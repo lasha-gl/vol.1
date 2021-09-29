@@ -1,0 +1,8 @@
+@media (max-width: 1200px) {
+
+
+}
+@media (max-width: 870px) { 
+    .big-box1 {
+        flex-wrap: wrap;
+        justify-content: center;
